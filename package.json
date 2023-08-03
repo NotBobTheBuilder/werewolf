@@ -2,7 +2,7 @@
   "name": "werewolf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://notbobthebuilder.github.io/werewolf-shuffler/",
+  "homepage": "https://notbobthebuilder.github.io/werewolf/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.17.0",
