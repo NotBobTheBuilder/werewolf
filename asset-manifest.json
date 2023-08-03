@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/werewolf-shuffler/static/js/main.79a734fe.js",
-    "index.html": "/werewolf-shuffler/index.html",
-    "main.79a734fe.js.map": "/werewolf-shuffler/static/js/main.79a734fe.js.map"
+    "main.js": "/werewolf/static/js/main.79a734fe.js",
+    "index.html": "/werewolf/index.html",
+    "main.79a734fe.js.map": "/werewolf/static/js/main.79a734fe.js.map"
   },
   "entrypoints": [
     "static/js/main.79a734fe.js"
