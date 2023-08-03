@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/werewolf/static/js/main.79a734fe.js",
+    "index.html": "/werewolf/index.html",
+    "main.79a734fe.js.map": "/werewolf/static/js/main.79a734fe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.79a734fe.js"
+  ]
+}
